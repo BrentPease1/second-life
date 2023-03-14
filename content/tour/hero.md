@@ -28,10 +28,10 @@ cta_note:
 # Choose an optional background color, gradient, image, or video
 design:
   background:
-    gradient_end: '#1976d2'
-    gradient_start: '#004ba0'
+    gradient_end: '#ebb058'
+    gradient_start: '#ebb058'
     text_color_light: true
 ---
-**Discover Biodiversity Through Sounds**    
+**Discover Biodiversity Through Sound**    
 
 Join us and other volunteers as we deploy sound recorders across our region to study changes in biodiversity over time.
