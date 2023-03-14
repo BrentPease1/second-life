@@ -29,7 +29,7 @@ content:
         text: Learn More
         url: https://playful-fox-997b3e.netlify.app/sounds-about/
     - title: Check out our results!
-      content: 'Explore last year's results using our interactive explorer'
+      content: Explore last year's results using our interactive explorer
       align: left
       background:
         position: center
