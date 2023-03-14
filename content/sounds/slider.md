@@ -41,17 +41,17 @@ content:
         icon_pack: fas
         text: Learn More
         url: https://playful-fox-997b3e.netlify.app/sounds-results/
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: Interested in Participating?
+      content: Sign up now!
       align: right
       background:
         position: center
         color: '#333'
         brightness: 0.5
-        media: welcome.jpg
+        media: audio_bag.jpg
       link:
-        icon: graduation-cap
+        icon: user-plus
         icon_pack: fas
         text: Join Us
-        url: ../contact/
+        url: https://playful-fox-997b3e.netlify.app/sounds-volunteer/
 ---
