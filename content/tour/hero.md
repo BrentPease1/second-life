@@ -1,4 +1,8 @@
 ---
+weight: 10
+active: true
+headless: true
+
 sections:
   - block: hero
     content:
