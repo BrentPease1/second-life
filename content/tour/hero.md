@@ -32,5 +32,6 @@ design:
     gradient_start: '#004ba0'
     text_color_light: true
 ---
+**Discover Biodiversity Through Sounds**    
 
-Add an intro paragraph here.
+Join us and other volunteers as we deploy sound recorders across our region to study changes in biodiversity over time.
