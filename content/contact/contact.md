@@ -10,28 +10,27 @@ headless: true
 weight: 10
 
 title: Contact
-subtitle:
+subtitle: Brent Pease, Ph.D.
 
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: bpease1@siu.edu
+  phone: +1 618-453-7474
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 1205 Lincoln Drive
+    city: Carbondale
+    region: IL
+    postcode: '62901'
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '37.71211344199869'
+    longitude: '-89.22250126326931'
+  directions: Enter south building, walk to end of hall, turn left at T, and enter room 186 on south side of hall.
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    - 'Monday 11:00 to 12:00'
+  appointment_url: 'https://calendly.com/brentpease'
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
