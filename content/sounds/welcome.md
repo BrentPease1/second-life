@@ -7,10 +7,10 @@ widget: blank
 headless: true
 
 # Should this widget show on page (t/f)
-active: true
+active: false
 
 # Order that this section appears on the page.
-weight: 10
+weight: 20
 
 # Section title
 title: ""
