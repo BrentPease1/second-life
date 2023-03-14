@@ -29,16 +29,12 @@ design:
 
 The 2022 Field Season is over. We had a great first year with the Sounds of Nature project in southern Illinois and are excited to continue to expand and continue listening.   
 
+{{< figure library="true" src="recording_map_results.jpg" >}} 
+
 ### Results    
 
 Sounds of Nature Recording Results can be viewed [here](https://soundsofnature.shinyapps.io/app-1/?_ga=2.156964731.1911718076.1662405104-361826376.1662309578)!  
     
-{{< figure library="true" src="recording_map_results.jpg" >}}    
-
-
-#### Questions? Ideas? We want to hear from you!    
-Please reach out to the Sounds of Nature project Manager, [Rebecca Ducay](https://peaselab.com/author/rebecca-ducay/). 
-
 </br>
 
 {{% cta cta_link="https://peaselab.com/sounds/" cta_text="Return to Sounds of Nature" %}}
