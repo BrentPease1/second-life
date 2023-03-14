@@ -1,4 +1,5 @@
 ---
+widget: hero
 weight: 10
 active: true
 headless: true
