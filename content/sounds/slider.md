@@ -22,20 +22,25 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: coders.jpg
+        media: soundscape.jpg
       link:
-        icon: leanpub
+        icon: book
         icon_pack: fas
         text: Learn More
         url: https://playful-fox-997b3e.netlify.app/sounds-about/
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+    - title: Check out our results!
+      content: 'Explore last year's results using our interactive explorer'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
+        media: soundscape.jpg
+      link:
+        icon: map
+        icon_pack: fas
+        text: Learn More
+        url: https://playful-fox-997b3e.netlify.app/sounds-results/
     - title: World-Class Semiconductor Lab
       content: 'Just opened last month!'
       align: right
