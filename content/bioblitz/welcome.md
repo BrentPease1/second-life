@@ -22,7 +22,7 @@ design:
 
 ---
 
-{{< figure library="true" src="website_logo.jpg" >}}
+<p style="text-align: center;"> {{< figure library="true" src="website_logo.jpg" >}} </p>
 
 
 The Saluki BioBlitz is an annual 24-hour challenge to document biodiversity across SIU's Carbondale campus. At a *BioBlitz*, students, faculty, staff, scientists, families, and the general public work together to get a snapshot of an area’s biodiversity. Using the [iNaturalist](https://www.inaturalist.org) platform, participants create digital records of which species are found (and not found!) on campus. The event is a great way to document and learn about the biodiversity across campus while contributing to the Pease Lab's and SIU Forestry Program's ongoing efforts of documenting biodiversity across the region.     
@@ -35,7 +35,7 @@ The Saluki BioBlitz is an annual 24-hour challenge to document biodiversity acro
 # The 2022 BioBlitz has ended.
 ## Check back in July 2023 for details on the 2023 Saluki BioBlitz!   
 
-{{< figure library="true" src="bioblitz_2022_results.jpg" >}}
+<p style="text-align: center;"> {{< figure library="true" src="bioblitz_2022_results.jpg" >}} </p>
 
 ### FAQ
 
