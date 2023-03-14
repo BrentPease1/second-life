@@ -24,7 +24,6 @@ cta_alt:
 # Note. An optional note to show underneath the links.
 cta_note:
   label: ''
-  text: **Discover Biodiversity Through Sounds** </br> Join us and other volunteers as we deploy sound recorders across our region to study changes in bird populations and biodiversity over time.
 
 # Choose an optional background color, gradient, image, or video
 design:
