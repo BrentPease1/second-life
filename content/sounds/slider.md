@@ -35,11 +35,11 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: soundscape.jpg
+        media: recording_map_results.jpg
       link:
         icon: map
         icon_pack: fas
-        text: Learn More
+        text: Results
         url: https://playful-fox-997b3e.netlify.app/sounds-results/
     - title: Interested in Participating?
       content: Sign up now!
