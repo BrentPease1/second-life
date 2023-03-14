@@ -3,27 +3,28 @@ widget: hero
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
-title: My Hero
+title: Sounds of Nature
 weight: 10 # Position of section on the page
 
 # Hero image (optional). Enter filename of an image in the assets/media/ folder.
-hero_media: ''
+hero_media: 'sounds_banner.jpg'
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: 'https://wowchemy.com'
-  label: Get Started
+  url: 'https://playful-fox-997b3e.netlify.app/sounds-volunteer/'
+  label: Sign up now!
   icon_pack: fas
-  icon: download
+  icon: user-plus
 cta_alt:
-  url: 'https://wowchemy.com'
-  label: View Documentation
+  url: 'https://playful-fox-997b3e.netlify.app/sounds-about/'
+  label: Learn More
 
 # Note. An optional note to show underneath the links.
 cta_note:
   label: ''
+  text: **Discover Biodiversity Through Sounds** </br> Join us and other volunteers as we deploy sound recorders across our region to study changes in bird populations and biodiversity over time.
 
 # Choose an optional background color, gradient, image, or video
 design:
