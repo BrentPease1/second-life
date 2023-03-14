@@ -13,10 +13,10 @@ active: true
 weight: 1
 
 # Section title
-title: "Sounds of Nature"
+title: ""
 
 # Section subtitle
-subtitle: "Discovery Biodiversity Through Sound"
+subtitle: ""
 
 # Section design
 design:
@@ -27,9 +27,6 @@ banner:
   image: "sounds_banner.jpg"
   caption: ""
 ---
-
-{{< figure library="true" src="sounds_banner.jpg" >}}
-
 <p style="text-align: center;">Sounds of Nature is a community research project to understand changes in biodiversity over time by studying *soundscapes*. Through Sounds of Nature, a team of researchers and citizen scientists are participating in and contributing to a state-wide project to monitor biodiversity in their backyard and beyond.</p>
 
 {{< figure library="true" src="SoN_flyer_2023.png" >}}
