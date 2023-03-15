@@ -13,12 +13,12 @@ hero_media: 'SoN_hero.png'
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: 'https://playful-fox-997b3e.netlify.app/sounds-volunteer/'
+  url: 'https://peaselab.com/sounds-volunteer/'
   label: Sign up now!
   icon_pack: fas
   icon: user-plus
 cta_alt:
-  url: 'https://playful-fox-997b3e.netlify.app/sounds-about/'
+  url: 'https://peaselab.com/sounds-about/'
   label: Learn More
 
 # Note. An optional note to show underneath the links.

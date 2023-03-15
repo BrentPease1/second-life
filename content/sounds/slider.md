@@ -6,10 +6,10 @@ headless: true
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
-  slide_height: ''
-  is_fullscreen: true
+  slide_height: '400px'
+  is_fullscreen: false
   # Automatically transition through slides?
-  loop: true
+  loop: false
   # Duration of transition between slides (in ms)
   interval: 3000
 
@@ -27,7 +27,7 @@ content:
         icon: book
         icon_pack: fas
         text: Learn More
-        url: https://playful-fox-997b3e.netlify.app/sounds-about/
+        url: https://peaselab.com/sounds-about/
     - title: Check out our results!
       content: Explore last year's results using our interactive explorer
       align: left
@@ -40,7 +40,7 @@ content:
         icon: map
         icon_pack: fas
         text: Results
-        url: https://playful-fox-997b3e.netlify.app/sounds-results/
+        url: https://peaselab.com/sounds-results/
     - title: Interested in Participating?
       content: Sign up now!
       align: right
@@ -53,5 +53,5 @@ content:
         icon: user-plus
         icon_pack: fas
         text: Join Us
-        url: https://playful-fox-997b3e.netlify.app/sounds-volunteer/
+        url: https://peaselab.com/sounds-volunteer/
 ---
