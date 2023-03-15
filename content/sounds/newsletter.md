@@ -16,7 +16,7 @@ cta:
   url: 'https://peaselab.com/sounds-newsletter/'
   label: Follow our Newsletter!
   icon_pack: fas
-  icon: newspaper-o
+  icon: file-text
 cta_alt:
   url: ''
   label: 
