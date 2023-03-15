@@ -7,7 +7,7 @@ title: Follow Us!
 weight: 30 # Position of section on the page
 
 # Hero image (optional). Enter filename of an image in the assets/media/ folder.
-hero_media: 'sounds_banner.png'
+hero_media: 'sounds_banner.jpg'
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
