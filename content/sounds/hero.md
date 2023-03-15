@@ -28,8 +28,8 @@ cta_note:
 # Choose an optional background color, gradient, image, or video
 design:
   background:
-    gradient_end: '#6e7d52'
-    gradient_start: '#6e7d52'
+    gradient_end: '#475230'
+    gradient_start: '#475230'
     text_color_light: true
 ---
 **Discover Biodiversity Through Sound**    
