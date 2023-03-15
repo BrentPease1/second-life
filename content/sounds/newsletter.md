@@ -14,9 +14,9 @@ hero_media: 'sounds_banner.jpg'
 #   Remove a link/note by deleting a cta/note block.
 cta:
   url: 'https://peaselab.com/sounds-newsletter/'
-  label: Join our Newsletter!
+  label: Follow our Newsletter!
   icon_pack: fas
-  icon: user-plus
+  icon: newspaper-o
 cta_alt:
   url: ''
   label: 
