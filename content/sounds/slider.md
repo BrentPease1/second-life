@@ -41,7 +41,7 @@ content:
         icon_pack: fas
         text: Results
         url: https://peaselab.com/sounds-results/
-    - title: Interested in Participating?
+    - title: Ready to Join?
       content: Sign up now!
       align: right
       background:
