@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Should this widget show on page (t/f)
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 20
@@ -27,6 +27,5 @@ banner:
   image: "sounds_banner.jpg"
   caption: ""
 ---
-{{< figure library="true" src="sounds_banner.jpg" >}}    
 
 <p style="text-align: center;">Sounds of Nature is a community research project to understand changes in biodiversity over time by studying *soundscapes*. Through Sounds of Nature, a team of researchers and citizen scientists are participating in and contributing to a state-wide project to monitor biodiversity in their backyard and beyond.</p>
