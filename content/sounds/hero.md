@@ -35,3 +35,7 @@ design:
 **Discover Biodiversity Through Sound**    
 
 Join us and other volunteers as we deploy sound recorders across our region to study changes in biodiversity over time.
+
+</br>
+
+**Monitoring starts April 2023!** 
