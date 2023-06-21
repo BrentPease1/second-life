@@ -38,4 +38,4 @@ Join us and other volunteers as we deploy sound recorders across our region to s
 
 </br>
 
-**Monitoring starts April 2023!** 
+**Final 2023 recorders ship out June 26!** 
