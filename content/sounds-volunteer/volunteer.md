@@ -26,12 +26,7 @@ design:
 ---
 ## The 2023 sampling period has ended. [Sign up](https://peaselab.com/sounds-newsletter/) for our newsletter to be notified of future opportunities.
 
-## Become a Volunteer  
 
-Interested in participating in our project and hosting an acoustic recorder on your property? We’d love to have you join our efforts! Joining the project is simple - submit an application below and we'll get a recorder headed your way in the mail.
-
-
-  
 
 
 <br/><br/>
