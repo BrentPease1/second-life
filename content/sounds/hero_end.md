@@ -1,7 +1,6 @@
 ---
 widget: hero
 headless: true  # This file represents a page section.
-active: false
 
 # Put Your Section Options Here (title, background, etc.) ...
 title: Sounds of Nature
@@ -14,13 +13,13 @@ hero_media: 'SoN_hero.png'
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: 'https://peaselab.com/sounds-volunteer/'
-  label: Sign up now!
+  url: 'https://peaselab.com/sounds-about/'
+  label: Learn About Sounds of Nature
   icon_pack: fas
   icon: user-plus
 cta_alt:
-  url: 'https://peaselab.com/sounds-about/'
-  label: Learn More
+  url: 
+  label:
 
 # Note. An optional note to show underneath the links.
 cta_note:
@@ -39,4 +38,4 @@ Join us and other volunteers as we deploy sound recorders across our region to s
 
 </br>
 
-**Final 2023 recorders ship out June 26!** 
+**The 2023 recording season has ended. Sign up for our newsletter to learn about new opportunities.** 
