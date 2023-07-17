@@ -36,6 +36,9 @@ education:
   - course: BSc in Biology
     institution: Hollins University, Roanoke, Virginia, USA
     year: 2019
+  - course: MS in Forestry
+    institution: Southern Illinois University, Carbondale, Illinois, USA
+    year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
