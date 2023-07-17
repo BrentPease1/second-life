@@ -62,7 +62,7 @@ email: ""
 highlight_name: false
 ---
 
-Elaine is a master’s student studying nightjars in Southern Illinois. Her project will use passive acoustic monitoring to investigate nocturnal bird species like the Eastern Whip-poor-will and the Chuck-will's-widow. In her free time, she loves to backpack, paddleboard, and cultivate orchids.
+Elaine completed her Master's degree in 2023. She led project an acoustic monitoring project studying nightjar distribution  like the Eastern Whip-poor-will and the Chuck-will's-widow in southern Illinois. Elaine is currently a PhD Student at Virginia Tech studying cerulean warblers. 
 
 
 
