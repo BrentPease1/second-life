@@ -29,8 +29,6 @@ design:
 
 The 2023 Field Season is over. We had an outstanding second year with the Sounds of Nature project! We expanded to five states and had 200 deployments!   
 
-{{< figure library="true" src="recording_map_results.jpg" >}} 
-
 ### Results    
 
 Sounds of Nature Recording Results can be viewed [here](https://soundsofnature.shinyapps.io/App-2/)!  
