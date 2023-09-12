@@ -21,6 +21,6 @@ design:
 
 <br>
 
-We are part of the [Forestry Program](www.forestry.siu.edu) at Southern Illinois University. Our research group focuses on applied wildlife conservation and management through the study of distributions and demographics of animal populations and communities. We work across taxa - birds, mammals, reptiles, and amphibians - on issues related to endangered species recovery, land management practices, and the conservation of biodiversity.    
+We are part of the [Forestry Program](https://academics.siu.edu/agriculture/forestry/) at Southern Illinois University. Our research group focuses on applied wildlife conservation and management through the study of distributions and demographics of animal populations and communities. We work across taxa - birds, mammals, reptiles, and amphibians - on issues related to endangered species recovery, land management practices, and the conservation of biodiversity.    
 
 Our lab's mission is to carry out science that informs responsible management and conservation of natural resources for the benefit of local communities and beyond. We strive to be a supportive, open, and inclusive group of researchers, and are continuously looking for ways to positively impact our community and ecosystems.
