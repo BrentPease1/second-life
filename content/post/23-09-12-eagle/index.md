@@ -1,5 +1,5 @@
 ---
-title: Lost birds can be cash cows - new publication documenting the economic impact of vagrant birds like the steller's sea eagle in North Ameerica - out today!
+title: Lost birds can be cash cows - new publication documenting the economic impact of vagrant birds like the steller's sea eagle in North America - out today!
 date: 2023-09-12
 ---
 
