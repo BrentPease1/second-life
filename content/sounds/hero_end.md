@@ -13,10 +13,10 @@ hero_media: 'SoN_hero.png'
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: 'https://peaselab.com/sounds-newsletter/'
-  label: Learn About Sounds of Nature
+  url: 'https://soundsofnature.shinyapps.io/App-2/'
+  label: View the 2023 results here!
   icon_pack: fas
-  icon: user-plus
+  icon: table
 cta_alt:
   url: 
   label:
