@@ -8,7 +8,7 @@ authors:
 - Michael V. Cove
 
 date: "2023-02-21T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.7589/JWD-D-22-00133"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -36,7 +36,7 @@ featured: true
 links:
 # - name: ''
 #   url: 
-url_pdf: ''
+url_pdf: 'https://saluki-my.sharepoint.com/:b:/g/personal/bpease1_siu_edu/EckrutZlujJNulIGxXuAR2UBopBUi5qayiw-TfeamOEWUw?e=kFVFuV'
 url_code: ''
 url_dataset: ''
 url_poster: ''

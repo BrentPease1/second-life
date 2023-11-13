@@ -35,7 +35,7 @@ featured: true
 links:
 # - name: ''
 #   url: 
-url_pdf: https://saluki-my.sharepoint.com/:f:/g/personal/bpease1_siu_edu/Eol50-Rhlp9Dsfg-o2CkvFkB7IMnc7ry3AB-iqSnrIX6zQ?e=3V0hZq
+url_pdf: https://saluki-my.sharepoint.com/:b:/g/personal/bpease1_siu_edu/ETHj3PytH-VDoFV79B4E3iUButW2nbRVYNah1rTxzDVEeg?e=xB8tb5
 url_code: 'https://github.com/BrentPease1/sea_eagle'
 url_dataset: 'https://zenodo.org/badge/latestdoi/462378107'
 url_poster: ''
