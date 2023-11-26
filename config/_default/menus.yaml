@@ -37,7 +37,11 @@ main:
   - name: Sounds of Nature
     url: sounds
     weight: 80
-  - name: Saluki BioBlitz
-    identifier: bioblitz
-    url: bioblitz
+  - name: Campus Biodiveristy
+    identifier: biodiversity
+    url: biodiversity
     weight: 90
+  - name: DEI
+    identifier: DEI
+    url: dei
+    weight: 100
