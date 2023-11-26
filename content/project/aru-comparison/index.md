@@ -1,5 +1,5 @@
 ---
-  title: ARU Performance Comparison
+  title: ARU Comparison
 tags:
 date: '2022-05-01T00:00:00Z'
 
