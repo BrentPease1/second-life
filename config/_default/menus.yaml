@@ -9,20 +9,20 @@ main:
     weight: 10
   - name: People
     url: people
-    weight: 20
+    weight: 30
   - name: Research
     url: research
-    weight: 30
+    weight: 40
   - name: Publications
     url: publication
-    weight: 40
+    weight: 50
   - name: News
     url: post
-    weight: 50
+    weight: 60
   - name: Join
     identifier: join
     url: join
-    weight: 60
+    weight: 70
   - name: Prospective Students
     parent: join
     url: join/prospective_students
@@ -33,7 +33,7 @@ main:
     weight: 2
   - name: Contact
     url: contact
-    weight: 70
+    weight: 20
   - name: Sounds of Nature
     url: sounds
     weight: 80
