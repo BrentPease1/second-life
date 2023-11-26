@@ -4,6 +4,7 @@ summary:
 tags:
  - 
 date: '2022-07-31T00:00:00Z'
+active: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
