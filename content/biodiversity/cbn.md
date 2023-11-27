@@ -25,4 +25,4 @@ design:
 
 The Campus Biodiversity Network is a global group of universities joining efforts to encourage documenting and monitoring biodiversity on campus. All efforts are documented on [iNaturalist](https://www.inaturalist.org/projects/campus-biodiversity-network-la-biodiversite-au-campus) where universities can tally their species count and compare across the globe. Good news: SIU is currently 2nd across all competing universities with nearly 8,000 species documented on campus!
 
-<p style="text-align: center;"> {{< figure library="true" src="cbn_stats.png" >}} </p>
+<p style="text-align: center;">{{< figure library="true" src="cbn_stats.png" >}}</p>
