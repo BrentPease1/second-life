@@ -18,7 +18,7 @@ subtitle: "Discover and Monitor Biodiversity on Campus"
 # Section design
 design:
   # Use a 1-column layout
-  columns: "1"
+  columns: "2"
 
 ---
 <p class="aligncenter"> {{< figure library="true" src="cbn.png" >}} </p>
