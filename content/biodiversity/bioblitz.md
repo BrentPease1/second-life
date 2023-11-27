@@ -18,7 +18,7 @@ subtitle: "A 24-hour challenge to document biodiversity"
 # Section design
 design:
   # Use a 1-column layout
-  columns: "1"
+  columns: "2"
 
 ---
 

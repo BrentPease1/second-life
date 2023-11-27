@@ -18,7 +18,7 @@ subtitle: "PEASE Lab's effort to document biodiversity on SIU's campus"
 # Section design
 design:
   # Use a 1-column layout
-  columns: "1"
+  columns: "2"
 
 ---
 <p style="text-align: center;"> {{< figure library="true" src="campus_lake2.jpg" >}} </p>
