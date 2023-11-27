@@ -21,6 +21,8 @@ design:
   columns: "1"
 
 ---
-<p style="text-align: center;"> {{< figure library="true" src="campus_lake.jpg" >}} </p>
+<p style="text-align: center;"> {{< figure library="true" src="cbn.png" >}} </p>
 
-With Campus Lake, Thompson woods, and [Touch of Nature](https://ton.siu.edu/), Southern Illinois University has a beautiful campus! The PEASE Lab has several ongoing campus and community efforts to document biodiversity across our campus. 
+The Campus Biodiversity Network is a global group of universities joining efforts to encourage documenting and monitoring biodiversity on campus. All efforts are documented on [iNaturalist](https://www.inaturalist.org/projects/campus-biodiversity-network-la-biodiversite-au-campus) where universities can tally their species count and compare across the globe. Good news: SIU is currently 2nd across all competing universities with nearly 8,000 species documented on campus!
+
+<p style="text-align: center;"> {{< figure library="true" src="cbn_stats.png" >}} </p>
