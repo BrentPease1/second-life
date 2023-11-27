@@ -21,7 +21,6 @@ design:
   columns: "1"
 
 ---
-<p style="text-align: center;"> {{< figure library="true" src="bioblitz_2022_results.jpg" >}} </p>
 
 ### FAQ
 
