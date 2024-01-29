@@ -38,4 +38,4 @@ Sounds of Nature is partnering with [Eclipse Soundscapes](https://eclipsesoundsc
 
 </br>
 
-**To support Eclipse Soundscapes, we are offering 100 volunteers a full sampling kit to participate in the event. Read more [here](https://peaselab.com/sounds-eclipse/)** 
+To support Eclipse Soundscapes, we are offering 100 volunteers a full sampling kit to participate in the event. Read more [here](https://peaselab.com/sounds-eclipse/)
