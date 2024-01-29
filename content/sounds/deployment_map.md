@@ -10,7 +10,7 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
 # Section title
 title: ""
