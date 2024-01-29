@@ -34,8 +34,8 @@ design:
 ---
 **Listening to the Eclipse**    
 
-Sounds of Nature is partnering with [Eclipse Soundscapes](https://eclipsesoundscapes.org/), a NASA funded Citizen Science project, to study how life on Earth responds to the 2024 Total Eclipse
+Sounds of Nature is partnering with [Eclipse Soundscapes](https://eclipsesoundscapes.org/), a NASA funded Citizen Science project, to study how life on Earth responds to the 2024 Total Eclipse!
 
 </br>
 
-To support Eclipse Soundscapes, we are offering 100 volunteers a full sampling kit to participate in the event. Read more [here](https://peaselab.com/sounds-eclipse/)
+To support Eclipse Soundscapes, we are offering 100 volunteers a full sampling kit to participate in the event. Click below to sign up and receive your sound recorder. Read more about our effort [here](https://peaselab.com/sounds-eclipse/)
