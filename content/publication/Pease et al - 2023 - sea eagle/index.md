@@ -110,4 +110,8 @@ slides:
           data-hide-when-empty="true">
         </a>
     </div>
+    <div id="inner">
+    <span class="__dimensions_badge_embed__" data-doi="10.1002/pan3.10527"></span>
+    <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+    </div>
   </section>
