@@ -102,15 +102,6 @@ slides:
         </div>
     </div>
     <div id="inner">
-      <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
-        <a href="https://plu.mx/plum/a/?doi=10.1002/pan3.10527" 
-          data-orientation="horizontal" 
-          class="plumx-summary" 
-          data-site="plum" 
-          data-hide-when-empty="true">
-        </a>
-    </div>
-    <div id="inner">
     <span class="__dimensions_badge_embed__" data-doi="10.1002/pan3.10527"></span>
     <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
     </div>
