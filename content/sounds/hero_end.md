@@ -38,4 +38,4 @@ Join us and other volunteers as we deploy sound recorders across our region to s
 
 </br>
 
-**The 2023 recording season has ended. Sign up for our [newsletter](https://peaselab.com/sounds-newsletter/) to learn about new opportunities.** 
+**The 2024 sampling season is nearly here! Sign up for our [newsletter](https://peaselab.com/sounds-newsletter/) to stay in the loop and be the first to know about sampling opportunities.** 
