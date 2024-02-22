@@ -63,7 +63,7 @@ email: ""
 highlight_name: false
 ---
 
-A.J. is a master’s student looking at opossum survivorship in Key Largo, Florida. His project is also exploring whether opossums outfitted with VHF collars could serve as a valuable resource in locating and removing invasive Burmese pythons. When A.J. isn’t running in the woods tracking down opossums he likes to go rock climbing, kick the soccer ball around, and relaxing on the couch watching movies.
+A.J. is a master’s student studying opossum survivorship in Key Largo, Florida. His project is also exploring whether opossums outfitted with VHF collars could serve as a valuable resource in locating and removing invasive Burmese pythons. When A.J. isn’t running in the woods tracking down opossums, he likes to go rock climbing, kick the soccer ball around, and relaxing on the couch watching movies.
 
 
 
