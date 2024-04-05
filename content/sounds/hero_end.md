@@ -34,8 +34,8 @@ design:
 ---
 **Discover Biodiversity Through Sound**    
 
-Join us and other volunteers as we deploy sound recorders across our region to study changes in biodiversity over time.
+Join us and other volunteers as we deploy sound recorders across Midwest USA to study changes in biodiversity over time.
 
 </br>
 
-**The 2024 sampling season is nearly here! Sign up for our [newsletter](https://peaselab.com/sounds-newsletter/) to stay in the loop and be the first to know about sampling opportunities.** 
+**Get excited: The 2024 sampling season is nearly here! Announcement coming April 12th!! In the meantime, Sign up for our [newsletter](https://peaselab.com/sounds-newsletter/) to stay in the loop.** 
