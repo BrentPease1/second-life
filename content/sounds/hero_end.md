@@ -38,4 +38,4 @@ Join us and other volunteers as we deploy sound recorders across Midwest USA to 
 
 </br>
 
-**Get excited: The 2024 sampling season is nearly here! Announcement coming April 12th!! In the meantime, Sign up for our [newsletter](https://peaselab.com/sounds-newsletter/) to stay in the loop.** 
+**Get excited: The 2024 sampling season is nearly here! In the meantime, Sign up for our [newsletter](https://peaselab.com/sounds-newsletter/) to stay in the loop.** 
