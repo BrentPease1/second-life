@@ -10,10 +10,10 @@ authors:
 superuser: false
 
 user_groups: 
-- Lab Members
+- Alumni
 
 # Role/position/tagline
-role: MS Student (they/them)
+role: MS, 2024; Currently PhD student at Columbia University
 
 # Organizations/Affiliations to show in About widget
 organizations:

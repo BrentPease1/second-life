@@ -10,10 +10,10 @@ authors:
 superuser: false
 
 user_groups: 
-- Lab Members
+- Alumni
 
 # Role/position/tagline
-role: MS Student (she/her)
+role: MS, 2024; Currently Rare Species Biologist, NY DEC
 
 # Organizations/Affiliations to show in About widget
 organizations:

@@ -10,10 +10,10 @@ authors:
 superuser: false
 
 user_groups: 
-- Lab Members
+- Alumni
 
 # Role/position/tagline
-role: MS Student (she/her)
+role: MS, 2024; Currently Wildlife Research Specialist, Iowa DNR
 
 # Organizations/Affiliations to show in About widget
 organizations:
