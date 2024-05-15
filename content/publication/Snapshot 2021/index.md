@@ -1,13 +1,12 @@
 ---
-title: "The impact of vehicular noise on acoustic indices within simulated bird assemblage soundscapes"
+title: "SNAPSHOT USA 2021: A third coordinated national camera trap survey of the United States"
 authors:
 - Shamon Hila  
 - Maor Roi
-- Cove Michael V.  
-- ... 
-- Brent S. Pease
-- ...
-- McShea William J.
+- Cove Michael
+- ...Brent S. Pease...
+- William McShea
+- (100+ co-authors)
 
 date: "2024-05-15T00:00:00Z"
 doi: "https://doi.org/10.1002/ecy.4318"
