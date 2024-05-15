@@ -4,7 +4,7 @@ authors:
 - Shamon Hila  
 - Maor Roi
 - Cove Michael
-- ...Brent S. Pease...
+- Brent S. Pease
 - William McShea
 - (100+ co-authors)
 
@@ -38,8 +38,8 @@ links:
 # - name: ''
 #   url: 
 url_pdf: 
-url_code: 'https://doi.org/10.1002/ecy.4318'
-url_dataset: 'https://doi.org/10.1002/ecy.4318'
+url_code: 
+url_dataset:
 url_poster: ''
 url_project: ''
 url_slides: ''
