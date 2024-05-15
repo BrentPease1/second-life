@@ -1,27 +1,12 @@
 ---
 title: "The impact of vehicular noise on acoustic indices within simulated bird assemblage soundscapes"
 authors:
-- hamon Hila  
+- Shamon Hila  
 - Maor Roi
 - Cove Michael V.  
-- Kays Roland
-- Adley Jessie
-- Alexer Peter D.  
-- Allen David N.  
-- Allen Maximilian L.  
-- Appel Cara L.  
-- Barr Evan  
-- Barthelmess Erika L.  
-- Baruzzi Carolina  
-- Bashaw Kelli  
-- Bastille-Rousseau Guillaume  
-- Baugh Madison E.  
-- Belant Jerrold  
-- Benson John F.  
-- Bespoyasny Bethany A.  
-- Bird Tori  
-- Bogan Daniel A.
-- Pease Brent S.
+- ... 
+- Brent S. Pease
+- ...
 - McShea William J.
 
 date: "2024-05-15T00:00:00Z"
