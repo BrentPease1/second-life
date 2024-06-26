@@ -1,5 +1,5 @@
 ---
-title: New publication out today in Ecography: Ecological Scales of Effect Vary Aross Space and Time.
+title: New publication out today in Ecography - Ecological Scales of Effect Vary Aross Space and Time
 date: 2024-06-14
 ---
 
