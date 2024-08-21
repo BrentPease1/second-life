@@ -13,7 +13,7 @@ user_groups:
 - Lab Members
 
 # Role/position/tagline
-role: MS Student
+role: MS Student (he/him)
 
 # Organizations/Affiliations to show in About widget
 organizations:
