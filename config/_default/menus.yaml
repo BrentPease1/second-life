@@ -37,10 +37,14 @@ main:
   - name: Sounds of Nature
     url: sounds
     weight: 80
-  - name: Campus Biodiveristy
+  - name: Campus Biodiversity
     identifier: biodiversity
     url: biodiversity
     weight: 90
+  - name: Other
+    identifier: other
+    url: other
+    weight: 100
   # - name: DEI
   #   identifier: DEI
   #   url: dei
