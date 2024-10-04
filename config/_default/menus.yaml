@@ -41,10 +41,10 @@ main:
     identifier: biodiversity
     url: biodiversity
     weight: 90
-  - name: Other
-    identifier: other
-    url: other
-    weight: 100
+  # - name: Other
+  #   identifier: other
+  #   url: other
+  #   weight: 100
   # - name: DEI
   #   identifier: DEI
   #   url: dei
