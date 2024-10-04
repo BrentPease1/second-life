@@ -1,5 +1,5 @@
 ---
-title: Congrats to former lab member, Kelly Crandall, on publishing her thesis research in [Food Webs](https://www.sciencedirect.com/science/article/abs/pii/S2352249624000296?via%3Dihub)! Human-derived food shrinks home ranges at the urban-wild interface. 
+title: Congrats to former lab member, Kelly Crandall, on publishing her thesis research in Food Webs! Human-derived food shrinks home ranges at the urban-wild interface. 
 date: 2024-09-26
 ---
 
