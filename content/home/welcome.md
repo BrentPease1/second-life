@@ -15,7 +15,7 @@ design:
   css_style:
   css_class:
 ---
-<p style="text-align: center;"> {{< figure library="true" src="lab_logo.jpg" >}} </p>
+<p style="text-align: center;"> {{< figure library="true" src="lab_logo.png" >}} </p>
 
 <br>
 
