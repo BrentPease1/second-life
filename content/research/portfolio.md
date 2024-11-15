@@ -38,7 +38,7 @@ content:
 
 design:
   columns: '1'
-  view: 3
+  view: 5
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
