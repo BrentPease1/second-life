@@ -15,7 +15,7 @@ subtitle: 'Current Research Projects within the Pease Lab'
 
 content:
   # Page type to display. E.g. project.
-  page_type: showcase
+  page_type: project
   exclude_tags:
     -SoN
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
