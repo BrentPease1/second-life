@@ -4,7 +4,7 @@ summary: Using iNaturalist to assess spatial variation in coat colors
 tags:
  - PP
 date: '2022-07-31T00:00:00Z'
-active: false
+active: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

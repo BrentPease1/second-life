@@ -1,14 +1,15 @@
 ---
   title: Southern Illinois Bird Monitoring Program
 summary: A long-term study of the bird community in southernmost Illinois
-tags: CP
+tags:
+  - CP
 date: '2022-05-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
 focal_point: Smart
 
 links:

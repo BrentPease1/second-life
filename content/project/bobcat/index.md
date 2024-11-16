@@ -1,8 +1,8 @@
 ---
   title: North-Central Illinois Bobcat Population Ecology
-summary: An example of using the in-built project page.
+summary: A study of bobcat movement and survival in agricultural dominated landscapes
 tags:
-  - 
+  - CP
 date: '2022-08-25T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

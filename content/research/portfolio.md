@@ -16,8 +16,7 @@ subtitle: 'Research Projects within the PEASE Lab'
 content:
   # Page type to display. E.g. project.
   page_type: project
-  exclude_tags:
-    -SoN
+  exclude_tags: 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 1
 
