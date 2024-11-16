@@ -1,0 +1,10 @@
+---
+title: Asessing the potential benefits of solar fields for openland dependent wildlife 
+tags:
+  - CP
+date: '2024-08-19'
+---
+
+Historically, most efforts to sustain wildlife populations have been invested into restoring wildlands on public property. Both federal and state conversation agencies now recognize this effort is inadequate and have increased efforts in restoring and conserving wildlands on private properties. Even with this broadened effort, however, population declines continue among most taxonomic groups of wildlife. More recently, wildlife ecologists have recognized the conservation and restoration of wildlands alone may not be adequate to reverse this decline, but instead we may have to develop approaches to manage landscapes in ways that both provide resources for humans and simultaneously providing landscapes that support wildlife. One way in which landscapes may provide both resources for humans while maintaining a landscape favorable to the support of wildlife is solar fields in open landscapes. Because solar panels in solar fields cover at most 50% of the landscape, it may be possible to develop the remaining 50-70% of the landscape in a way that helps support wildlife populations. To better understand if grassland dependent wildlife can exploit solar fields planted with native grassland vegetation, we need address two primary questions: (i) identify the species composition of the vegetation that will best thrive in the unique conditions provided in a solar field partially covered with solar panels; (ii) estimate how well solar panels support grassland dependent wildlife relative to the landscapes solar panels will be replacing. [Isaac Grosner](https://peaselab.com/people/isaac-grosner/) (Current MS student) is leading this research to determine which grassland dependent vegetation performs best under the unique environmental conditions of solar fields. Additionally, he is estimating the species richness and abundance of small mammals, meso-mammals, birds, arthropods, snakes, and salamanders in the landscape a solar field is expected to be developed.
+
+
