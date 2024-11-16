@@ -28,3 +28,6 @@ We additionally documented underreporting on chuck-will's-widow in Illinois, whe
 
 A link to a PDF of this artical can be found [here](https://saluki-my.sharepoint.com/:b:/g/personal/bpease1_siu_edu/EZy6T14KyYdHn82In6UTa0IBSXwod-HN_X-to-4iRjsuDQ?e=mQGz8l)
 
+</br>
+
+Currently, [Lauren Benedict](https://peaselab.com/author/lauren-benedict/) is leading an exciting project of estimating nightjar abundance on private and public land across southern Illinois. Partnering with the Illinois Natural Hertiage program, we seek to understand how fire, thinning, and treatment size affect species abundance as well as estimating prey availability on these sites. Field work for this project starts Spring 2025!
