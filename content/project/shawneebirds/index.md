@@ -1,33 +1,8 @@
 ---
-  title: Southern Illinois Bird Monitoring Program
-summary: A long-term study of the bird community in southernmost Illinois
+title: Southern Illinois Bird Monitoring Program
 tags:
   - CP
 date: '2022-05-01T00:00:00Z'
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
-image:
-  caption: 
-focal_point: Smart
-
-links:
-  - icon: 
-icon_pack: fab
-name:
-url: ''
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
   
 The southern Illinois bird monitoring project seeks to document the presence/absence of bird species throughout southern Illinois using Autonomous Recording Units (ARUs). During May - July 2022, we deployed sound recording devices at over 150 different locations spanning the 11 southernmost Illinois counties, resulting in over 2 Terabytes (about half a million minutes) of recordings. Site locations were selected using the block-grid sampling method utilized by the Illinois Breeding Bird Atlas.     

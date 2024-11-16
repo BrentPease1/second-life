@@ -1,33 +1,8 @@
 ---
-  title: Missouri Swamp Rabbit Distribution
+title: Missouri Swamp Rabbit Distribution
 tags:
   - PP
-summary: Swamp Rabbit distribution dynamics over 40 years
-date: '2022-09-06T00:00:00Z'
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
-image:
-  caption: Swamp rabbit swimming, PBS
-focal_point: Smart
-
-links:
-  - icon: 
-icon_pack: fab
-name: 
-url: 
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
+date: '2022-09-06'
 ---
   
   The Missouri Swamp Rabbit Project is a collaboration between Southern Illinois University-Carbondale and the Missouri Department of Conservation (MDC) and is led by M.S. student [Kylie Bosch](https://peaselab.com/author/kylie-bosch/). Not to be confused with the marsh rabbit (S. palustris), swamp rabbits (S. aquaticus) are one of the least studied rabbit species in the U.S. While their range stretches from the southeastern United States to the southern reaches of Missouri, Illinois, and Indiana, swamp rabbits have historically existed in relatively small populations across southern Missouri. Due to low abundance and conversion of bottomland hardwood forests and swamps to agricultural land, swamp rabbits are listed as a species of conservation concern in Missouri.     
