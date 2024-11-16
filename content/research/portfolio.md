@@ -29,9 +29,9 @@ content:
     - name: All
       tag: '*'
     - name: Current Projects
-      tag: CP
+      tag: 'CP'
     - name: Past Projects
-      tag: PP
+      tag: 'CP'
 
 design:
   columns: '1'
