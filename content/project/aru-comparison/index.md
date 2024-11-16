@@ -1,7 +1,6 @@
 ---
   title: Comparison of ARU Hardware and Software
-tag:
-  - CP
+tags: ['CP']
 date: '2022-05-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
