@@ -16,7 +16,7 @@ subtitle: 'Research Projects within the PEASE Lab'
 content:
   # Page type to display. E.g. project.
   page_type: project
-  exclude_tags: 
+
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 1
 
@@ -29,9 +29,9 @@ content:
     - name: All
       tag: '*'
     - name: Current Projects
-      tag: 'CP'
+      tag: CP
     - name: Past Projects
-      tag: 'CP'
+      tag: PP
 
 design:
   columns: '1'
