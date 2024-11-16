@@ -1,6 +1,6 @@
 ---
   title: Comparison of ARU Hardware and Software
-tags:
+tag:
   - CP
 date: '2022-05-01T00:00:00Z'
 
