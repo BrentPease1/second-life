@@ -1,8 +1,8 @@
 ---
-title: Missouri Swamp Rabbit Distribution
+  title: Missouri Swamp Rabbit Distribution
 tags:
-  - CP
-summary: Changes in swamp rabbit distribution through time
+  - PP
+summary: Swamp Rabbit distribution dynamics over 40 years
 date: '2022-09-06T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

@@ -1,8 +1,8 @@
 ---
   title: Key Largo Mesopredators
-summary: A study of mesopredator movement in Key Largo, Florida, USA
+summary: A study of mesopredator movement, endangered species recovery, and invasive species pressure in Key Largo, Florida, USA
 tags:
-  - PP
+  - CP
 date: '2022-05-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

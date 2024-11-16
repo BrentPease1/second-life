@@ -1,6 +1,6 @@
 ---
-  title: Using iNaturalist to assess spatial variation in coat colors
-summary:
+  title: American Black Bear coat color morphology using open-access occurrence databases
+summary: Using iNaturalist to assess spatial variation in coat colors
 tags:
  - PP
 date: '2022-07-31T00:00:00Z'
