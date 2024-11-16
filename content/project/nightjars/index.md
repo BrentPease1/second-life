@@ -23,3 +23,8 @@ We have ongoing work with nighjars in the state. Initially, [Elaine Metz](https:
 
 A link to a PDF of this artical can be found [here](https://saluki-my.sharepoint.com/:b:/g/personal/bpease1_siu_edu/ETDnt-0LWahJpMkPbu0MZogBWvvXNSCWEAt-DkEX8yNkHw?e=KTQdDn)
 
+We additionally documented underreporting on chuck-will's-widow in Illinois, where the species current IUCN range map excludes Illinois:
+<p style="text-align: center;"> {{< figure library="true" src="chuck_range.png" >}} </p>
+
+A link to a PDF of this artical can be found [here](https://saluki-my.sharepoint.com/:b:/g/personal/bpease1_siu_edu/EZy6T14KyYdHn82In6UTa0IBSXwod-HN_X-to-4iRjsuDQ?e=mQGz8l)
+
