@@ -37,7 +37,7 @@ content:
   #     tag: NLP
 
 design:
-  columns: '1'
+  columns: '2'
   view: 5
   flip_alt_rows: true
   background: {}
