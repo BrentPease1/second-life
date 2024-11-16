@@ -2,7 +2,7 @@
   title: Nightjar Distribution in Southern Illinois
 summary: An example of using the in-built project page.
 tags:
-  - Deep Learning
+  - CP
 date: '2022-05-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
