@@ -64,7 +64,7 @@ email: ""
 highlight_name: false
 ---
 
-Lauren is a master’s student studying the abundance and distribution of Eastern Whip-poor-wills and Chuck-will’s-widows in southern Illinois. She is co-advised by [Dr. Eric Holzmueller](https://academics.siu.edu/agriculture/forestry/faculty/holzmueller-eric.php).  In her free time, Lauren enjoys hiking, birding, gardening, and reading.
+Lauren is a master’s student studying the abundance and distribution of Eastern Whip-poor-wills and Chuck-will’s-widows in southern Illinois. Read about Lauren's research work [here](https://peaselab.com/project/nightjars/). She is co-advised by [Dr. Eric Holzmueller](https://academics.siu.edu/agriculture/forestry/faculty/holzmueller-eric.php).  In her free time, Lauren enjoys hiking, birding, gardening, and reading.
 
 
 
