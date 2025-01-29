@@ -3,16 +3,16 @@ title: "Current Openings"
 share: false # Show social sharing links?
 ---
 
-## **Two (2) Ph.D. Assistantships – Wild Turkey Gobbling Chronology and Nesting Phenology – Southern Illinois University**
+## **Two (2) Assistantships – Wild Turkey Gobbling Chronology and Nesting Phenology – Southern Illinois University**
 
 *Start Date:* August 2025 
 
-*Salary:* $25k/yr + tuition and student health care access; up to 5 years of support 
+*Salary:* $22k/yr (MS) or $25k/yr (PhD) + tuition and student health care access; up to 5 years of support 
 
 *Last Date to Apply:* For full consideration, applications should be received by Dec 6, 2024, but applications will be accepted until positions are filled.
 
 *Description*
-2 Ph.D.-level Graduate Research Assistantships are available starting August 2025 in the PEASE Lab (Population Estimation and Spatial Ecology; peaselab.com) at Southern Illinois University for a statewide wild turkey (Meleagris gallopavo) ecology and management project. One student will lead efforts on Project 1 (details below) and the other student will lead efforts on Project 2. The students will be co-advised by Drs. Brent Pease and [Guillaume Bastille-Rousseau](https://bastillerousseau.wixsite.com/research) at Southern Illinois University.
+2 Graduate Research Assistantships (MS or PhD) are available starting August 2025 in the PEASE Lab (Population Estimation and Spatial Ecology; peaselab.com) at Southern Illinois University for a statewide wild turkey (Meleagris gallopavo) ecology and management project. One student will lead efforts on Project 1 (details below) and the other student will lead efforts on Project 2. The students will be co-advised by Drs. Brent Pease and [Guillaume Bastille-Rousseau](https://bastillerousseau.wixsite.com/research) at Southern Illinois University.
 
 **Project 1: Wild Turkey gobbling chronology**
 Project 1 will focus on wild turkey gobbling chronology. The student will lead research using autonomous recording units (ARUs) to document spatial and/or temporal variation in gobbling chronology (e.g., Kreh et al., 2018 Wildlife Society Bulletin). The focus of this research is to assess current spring harvest season regulations (e.g., timing, zoning, and length of spring harvest seasons) and then provide regulatory recommendations based on ARU sampling. Addition work will focus on environmental drivers of variation in gobbling chronology as well as methodological work in ARUs, species identification from audio recordings, and continued ongoing work within our lab on population estimation (e.g., abundance) via ARU recordings.
@@ -28,13 +28,13 @@ This position will emphasize species-specific ecological knowledge and movement 
 
 This is a well-funded, multi-agency research project, and the graduate students will be expected to assist in hiring and managing field technicians to support the data collection efforts. Additionally, although research questions will be unique among the selected students, their field work will be complimentary, and all individuals will be expected to contribute to all wild turkey research activities carried out.
 
-The successful applicants will have (1) obtained M.S. degree in wildlife, ecology, biology, forestry, zoology, or related fields; (2) knowledge of wild turkey ecology; (3) exceptional quantitative skills with experience using a variety of data types and models; (4) knowledge of program R and spatial software (e.g., QGIS, ArcGIS); (5) a driver's license and ability to conduct independent field work in difficult conditions (e.g., steep terrain, poison ivy, ticks); (6) strong oral and written communication skills, and (7) a cooperative, team-oriented mindset eager to carry out wildlife research and address key problems in wildlife conservation and management.
+The successful applicants will have (1) obtained B.S. or M.S. degree in wildlife, ecology, biology, forestry, zoology, or related fields; (2) knowledge of wild turkey ecology; (3) exceptional quantitative skills with experience using a variety of data types and models; (4) knowledge of program R and spatial software (e.g., QGIS, ArcGIS); (5) a driver's license and ability to conduct independent field work in difficult conditions (e.g., steep terrain, poison ivy, ticks); (6) strong oral and written communication skills, and (7) a cooperative, team-oriented mindset eager to carry out wildlife research and address key problems in wildlife conservation and management.
 
 To apply please email a single PDF to Dr. Brent Pease (bpease1@siu.edu) that includes:
 1. A cover letter that describes your specific interest in this position and how your past experiences and career goals align with the goals of the project. Your cover should clearly articulate which position you are interested in (gobbling chronology, nesting phenology, or a ranking of the two if your skillset matches both positions).
 2. Curriculum Vitae (with GPA and GRE scores included)
 3. Undergraduate and graduate transcripts (unofficial is acceptable)
-4. Example of writing (e.g., M.S. thesis or publication; can be included separately as PDF)
+4. Example of writing (e.g., thesis, class project, or publication; can be included separately as PDF)
 6. Contact information for 3 references
 
 The email subject should be **“PhD – Wild turkeys”**. Review of applications will begin immediately and continue until the position is filled. For full consideration, applications should be received by Dec 6, 2024, but applications will be accepted until positions are filled and reviewed on a rolling basis.
