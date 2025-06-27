@@ -1,5 +1,5 @@
 ---
-title: Congratulations to Shauna Sayers on a successful thesis defense! lab member
+title: Congratulations to Shauna Sayers on a successful thesis defense!
 date: 2025-05-30
 ---
 
