@@ -13,7 +13,7 @@ user_groups:
 - Alumni
 
 # Role/position/tagline
-role: Undergraduate Research Assistant (she/her)
+role: Undergraduate Research Assistant, 2023
 
 # Organizations/Affiliations to show in About widget
 organizations:
