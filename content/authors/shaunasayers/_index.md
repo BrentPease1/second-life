@@ -10,10 +10,10 @@ authors:
 superuser: false
 
 user_groups: 
-- Lab Members
+- Alumni
 
 # Role/position/tagline
-role: MS Student (she/her)
+role: MS, 2025; Currently Bird Biologist, Audubon Society
 
 # Organizations/Affiliations to show in About widget
 organizations:
