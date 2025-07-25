@@ -34,7 +34,7 @@ The Saluki BioBlitz is an annual 24-hour challenge to document biodiversity acro
 
 # The 2024 SIU Saluki BioBlitz was a great success!
 
-<p style="text-align: center;"> {{< figure library="true" src="bioblitz_2024_results.jpg" >}} </p>
+<p style="text-align: center;"> {{< figure library="true" src="bioblitz_2024_results.png" >}} </p>
 
 View all observation details including the leaderboard on the [iNaturalist 2024 SIU Saluki BioBlitz](https://www.inaturalist.org/projects/2024-siu-saluki-bioblitz) page!
 
