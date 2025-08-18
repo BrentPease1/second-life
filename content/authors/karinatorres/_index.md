@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Lucy Cheeley
+title: Karina Torres
 
 # Username (this should match the folder name)
 authors:
-- lucycheeley
+- karinatorres
 
 # Is this the primary user of the site?
 superuser: false
@@ -27,16 +27,19 @@ bio: Lucy Cheelsey is a Graduate Research Assistant in the Forestry Program at S
 
 # Interests to show in About widget
 interests:
-- Bioacoustics
-- Avian Ecology    
-- Wildlife Conservation
+- Conservation Technology
+- Citizen Science   
+- Deep Learning
 
 # Education to show in About widget
 education:
   courses:
-  - course: BSc with Distinction in Research, Animal Science
-    institution: Cornell University, Ithaca, New York, USA
+  - course: BSc in Forest Resources and Conservation
+    institution: University of Florida, Gainesville, Florida, USA
     year: 2025
+  - course: AA in General Studies
+    institution: Pensacola State College, Pensacola, Florida, USA
+    year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:lucille.cheeley@siu.edu"
+  link: "mailto:karina.torres@siu.edu"
 
 
 
@@ -63,7 +66,6 @@ email: ""
 highlight_name: false
 ---
 
-Lucy is a master’s student using bioacoustics to study Wild Turkeys in Illinois. Her project focuses on determining the gobbling chronology of Wild Turkeys to help inform hunting regulations in Illinois. She is co-advised by Dr. Guillaume Bastille-Rousseau. In her free time, Lucy enjoys birding, baking bread, and watching movies.
-
+Karina is a Master's student interested in applying technology to improve natural resource conservation. Her project will focus on obtaining ecological insights from citizen science data from programs like iNaturalist. Karina completed an undergraduate thesis at UF using remotely-sensed data to study the factors influencing human-caused wildfire occurrence in the southeastern United States. When she is not busy doing research, she loves to fish, hike, read, play games, and photograph wildlife.
 
 
