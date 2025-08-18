@@ -52,9 +52,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:bpease1@siu.edu"
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/brentPease1
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack, `graduation-cap` icon from `fas` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ejTf-_gAAAAJ&hl=en
