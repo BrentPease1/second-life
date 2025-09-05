@@ -13,7 +13,7 @@ user_groups:
 - Lab Members
 
 # Role/position/tagline
-role: PhD Student (she/her)
+role: PhD Candidate (she/her)
 
 # Organizations/Affiliations to show in About widget
 organizations:
