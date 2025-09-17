@@ -8,4 +8,4 @@ design:
   columns: '1'
 ---
 
-<p style="text-align: center;"> {{< figure library="true" src="PEASELab2025.jpg" >}} </p>
+<p> {{< figure library="true" src="PEASELab2025.jpg" width="400px">}} </p>
