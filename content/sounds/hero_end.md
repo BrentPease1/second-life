@@ -34,8 +34,8 @@ design:
 ---
 **Discover Biodiversity Through Sound**    
 
-Join us and other volunteers as we deploy sound recorders across Midwest USA to study changes in biodiversity over time.
+Sounds of Nature was a participatory science project studying changes in biodiversity in Midwestern USA.
 
 </br>
 
-**Sign up for our [newsletter](https://peaselab.com/sounds-newsletter/) to stay in the loop.** 
+**Still interested in our work? Sign up for our [newsletter](https://peaselab.com/sounds-newsletter/) to stay in the loop.** 
