@@ -13,8 +13,8 @@ hero_media: 'es.png'
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: 'https://eclipsesoundscapes.org/data-collector-page/'
-  label: Sign up to be a data collector!
+  url: 'https://peaselab.com/sounds-eclipse/'
+  label: Read more about our effort
   icon_pack: fas
   icon: user-plus
 cta_alt:
@@ -34,8 +34,8 @@ design:
 ---
 **Listening to the Eclipse**    
 
-Sounds of Nature is partnering with [Eclipse Soundscapes](https://eclipsesoundscapes.org/), a NASA funded Citizen Science project, to study how life on Earth responds to the 2024 Total Eclipse!
+Sounds of Nature partnered with [Eclipse Soundscapes](https://eclipsesoundscapes.org/), a NASA funded Citizen Science project, to study how life on Earth responds to the 2024 Total Eclipse!
 
 </br>
 
-To support Eclipse Soundscapes, we are offering 100 volunteers a full sampling kit to participate in the event. Click below to sign up and receive your sound recorder. Read more about our effort [here](https://peaselab.com/sounds-eclipse/)
+

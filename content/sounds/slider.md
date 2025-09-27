@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: What is Sounds of Nature?
-      content: Learn how we are discovering biodiversity through sound...
+      content: Learn how we studied biodiversity through sound...
       align: center
       background:
         position: right
@@ -29,7 +29,7 @@ content:
         text: Learn More
         url: https://peaselab.com/sounds-about/
     - title: Check out our results!
-      content: Explore last year's results using our interactive explorer
+      content: Explore project results using our interactive explorer
       align: left
       background:
         position: center
@@ -41,17 +41,17 @@ content:
         icon_pack: fas
         text: Results
         url: https://peaselab.com/sounds-results/
-    - title: Ready to Join?
-      content: Sign up now!
-      align: right
-      background:
-        position: center
-        color: '#333'
-        brightness: 0.5
-        media: audio_bag.jpg
-      link:
-        icon: user-plus
-        icon_pack: fas
-        text: Join Us
-        url: https://peaselab.com/sounds-volunteer/
+#    - title: Ready to Join?
+#      content: Sign up now!
+#      align: right
+#      background:
+#        position: center
+#        color: '#333'
+#        brightness: 0.5
+#        media: audio_bag.jpg
+#      link:
+#        icon: user-plus
+#        icon_pack: fas
+#        text: Join Us
+#        url: https://peaselab.com/sounds-volunteer/
 ---

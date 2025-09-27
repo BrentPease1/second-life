@@ -14,7 +14,7 @@ hero_media: 'SoN_hero.png'
 #   Remove a link/note by deleting a cta/note block.
 cta:
   url: 'https://soundsofnature.shinyapps.io/App-2/'
-  label: View the 2023 results here!
+  label: View the project results here!
   icon_pack: fas
   icon: table
 cta_alt:
