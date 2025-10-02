@@ -33,9 +33,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: BSc in Biology
+  - course: BSc in Forestry
     institution: Southern Illinois University, Carbondale, Illinois, USA
-    year: Anticipated: 2025    
+    year: 2025    
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
