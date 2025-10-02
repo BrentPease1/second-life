@@ -62,6 +62,6 @@ email: ""
 highlight_name: false
 ---
 
-Joe is an undergraduate at SIU studying Forestry with a specialization in wildlife habitat and conservation. He joined the Pease Lab in 2024 as a field technician for Isaac Grosner and Lauren Benedict. Joe is an avid birder who spends much of his time pursuing this obsession. When not birding, he enjoys hiking, cycling, botany, and spending time with his wife (Jenny).
+Joe is an undergraduate at SIU studying Forestry with a specialization in wildlife habitat and conservation. He joined our lab in 2024 as a field technician for Isaac Grosner and Lauren Benedict. Joe is an avid birder who spends much of his time pursuing this obsession. When not birding, he enjoys hiking, cycling, botany, and spending time with his wife (Jenny).
 
 
